@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi there, I'm [JETTI RAVITEJA] 👋
 
-<!--
-**raviteja311/raviteja311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate student aspiring to become a Data Scientist and explore the world of data-driven decision-making. I enjoy working with data to uncover insights and create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Career Interests
+
+Data Science & Machine Learning
+
+Business Intelligence & Data Analytics
+
+Data Engineering
+
+Statistical Analysis
+
+🛠️ Skills & Tools
+
+Programming: Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
+
+Data Visualization: Power BI, Matplotlib, Seaborn
+
+Data Manipulation: Excel, SQL
+
+Machine Learning: Scikit-learn, TensorFlow (basic understanding)
+
+Others: Git, Jupyter Notebook
+
+📚 Currently Learning
+
+Advanced Machine Learning Algorithms
+
+Deep Learning with TensorFlow
+
+Big Data Technologies (Spark, Hadoop)
+
+📈 GitHub Stats
+
+
+
+
+📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/jettiraviteja
+
+Email: jettiraviteja832@gmail.com
+
+
+💡 Always eager to collaborate on projects and learn new things in the field of Data Science! Let's connect. 😊
+
