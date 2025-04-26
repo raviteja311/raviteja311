@@ -28,22 +28,13 @@ Here are some of the tools and technologies I am proficient in:
 
 ---
 
-## 📊 Projects
-
-Here are a few projects I've worked on:
-
-- **[Project Title 1](link-to-your-project)**: A brief description of what this project is about and the technologies used.
-
-Feel free to check them out!
-
----
 
 ## 📚 Currently Learning
 
 I'm currently diving deeper into:
 
 - Machine Learning Algorithms
-- Data Engineering
+- Business Statistics and Data analytics
 - Advanced Data Visualization Techniques
 
 ---
