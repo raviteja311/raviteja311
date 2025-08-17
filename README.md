@@ -1,4 +1,4 @@
-# 👋 Hello, I'm JETTI RAVITEJA!
+ # 👋 Hello, I'm JETTI RAVITEJA!
 
 I'm a passionate student aspiring to build a career in **Data Science** and related fields. I love working with data to uncover insights and drive decision-making. Welcome to my GitHub profile!
 
