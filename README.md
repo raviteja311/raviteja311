@@ -27,7 +27,7 @@ I am a Computer Science graduate (B.Tech, AI & ML, 2026) who builds end-to-end d
 
 | Project | Description | Links |
 | :-- | :-- | :-- |
-| [**easyjobs**](https://github.com/raviteja311/easyjobs) | Map-first job board across 17 Indian cities, fed nightly from five applicant tracking systems into PostGIS. | [Live](https://easyjobs-seven.vercel.app) · [Code](https://github.com/raviteja311/easyjobs) |
+| [**easyjobs**](https://github.com/raviteja311/easyjobs) | Map-first job board across 15 Indian cities, fed nightly from five applicant tracking systems into PostGIS. | [Live](https://easyjobs-seven.vercel.app) · [Code](https://github.com/raviteja311/easyjobs) |
 | [**On-Topic**](https://github.com/raviteja311/On-Topic) | Distraction-free YouTube topic search with server-side API calls, quota caching and shareable searches. | [Live](https://on-topic-two.vercel.app) · [Code](https://github.com/raviteja311/On-Topic) |
 | [**Dog vs Cat Classifier**](https://github.com/raviteja311/dog-cat-classifier) | Image classifier behind a Streamlit app, returning a label with a confidence score. | [Code](https://github.com/raviteja311/dog-cat-classifier) |
 
