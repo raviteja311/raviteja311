@@ -1,9 +1,9 @@
-<a href="https://portfolio-website-drab-six-15.vercel.app">
+<a href="https://jettiraviteja.vercel.app">
   <img src="./assets/banner.svg" alt="Jetti Raviteja, Data Analyst and Junior Data Scientist" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://portfolio-website-drab-six-15.vercel.app"><img src="https://img.shields.io/badge/Portfolio-5048E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://jettiraviteja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-5048E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/jettiraviteja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jettiraviteja832@gmail.com"><img src="https://img.shields.io/badge/Email-jettiraviteja832%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -80,4 +80,4 @@ Analysed 12,000+ restaurant records in Python, Excel and Power BI, and built thr
 
 ---
 
-<p align="center"><sub>Full project write-ups are on my <a href="https://portfolio-website-drab-six-15.vercel.app">portfolio</a>.</sub></p>
+<p align="center"><sub>Full project write-ups are on my <a href="https://jettiraviteja.vercel.app">portfolio</a>.</sub></p>
